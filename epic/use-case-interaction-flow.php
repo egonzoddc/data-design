@@ -28,5 +28,8 @@
 		<ul align="center">Stats link returns all stats of the last game they played and an option for "History" stats</ul>
 		<ul align="center">Tom clicks on the "History" link revealing the fact that the teams have played a total of 120 games since 1960. Also showing
 									that out of those 120 games the Raiders have won a total of 65 and the Broncos a total of 53 with two games ending in a tie score</ul>
+		<ul align="center">Tom is ashamed to show John what he just found out. He was certain the Broncos had the better overall record between the two teams. John
+									takes a look at Tom's phone and just starts laughing at Tom and says "See, I told you so!" Now John has even more reason to pick on Tom.
+									Thanks technology and NFL.com.</ul>
 </body>
 </html>
