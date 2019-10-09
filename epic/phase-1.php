@@ -15,7 +15,7 @@
 		<h2 align="center"><strong></strong><font size="6">User Story:</font></h2>
 			<p align="center">As a user of this site I would like to have the ability to check on my team to see who we have played, who we play next, and what all the stats of the players of my team are.</p>
 		<h3 align="center"><strong></strong><font size="6">Use Case:</font></h3>
-		<p align="center">John and Tom are at the bar arguing over whos team is better. John is a Raiders fan, and Tom is a Broncos fan. They are going back and forth over whos team has the better stats. As any NFL fan would know, the Broncos and Raiders rivalry goes back decades.
+		<p align="center">John and Tom are at the bar arguing over whos team is better. John, is a Raiders fan, and Tom, is a Broncos fan. They are going back and forth over whos team has the better stats. As any NFL fan would know, the Broncos and Raiders rivalry goes back decades.
 		John wants to show Tom that the Raiders are actually doing better then the Broncos even though the season is 5 weeks old. </p>
 		<h4 align="center"><strong></strong><font size="6">Interaction Flow:</font></h4>
 			<ul align="center">John takes out his phone and opens the web browser</ul>
