@@ -5,6 +5,12 @@
 	<title>Efren Data Design Project</title>
 </head>
 <body>
-<a href="persona.php">Phase-1</a>
+<div>
+	<a href="persona.php">Persona</a>
+</div>
+<div>
+	<a href="user-story.php">User Story</a>
+</div>
+	<a href="use-case-interaction-flow.php">Use Case/Interaction Flow</a>
 </body>
 </html>
