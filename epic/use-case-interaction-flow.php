@@ -17,9 +17,9 @@
 	<h2 align="center"><strong></strong><font size="6">Interaction Flow:</font></h2>
 		<ul align="center">Tom takes out his phone and opens the web browser</ul>
 		<ul align="center">Tom enters NFL.com into his web browser</ul>
-		<ul align="center">Webstie returns with multiple link options to look at including news, schedule, standings, and records of each team </ul>
+		<ul align="center">Webstie returns with multiple link options to look at including news, schedule, standings, and records, ect; of each team </ul>
 		<ul align="center">Tom clicks on the Link that says "Schedule"</ul>
-		<ul align="center">Games link returns links for every team in the League</ul>
+		<ul align="center">The schedule link returns links for every team in the League</ul>
 		<ul align="center">Tom clicks on the "Broncos" link</ul>
 		<ul align="center">The link returns the the games the Broncos have played and who they will be playing </ul>
 		<ul align="center">Tom clicks on the "Broncos vs. Raiders" link. They played in Week 1 so it is right up top</ul>

@@ -7,6 +7,7 @@
 <body>
 <div>
 	<a href="persona.php">Persona</a>
+	<link rel="stylesheet" href="./style.css">
 </div>
 <div>
 	<a href="user-story.php">User Story</a>
