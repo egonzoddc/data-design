@@ -10,11 +10,11 @@
 	<img src="images/nfl-logo.png">
 	<img src="images/raiders.jpg"style="width:250px;height:250px;">
 </div>
-	<h1 align="center"><strong></strong><font size="6">Use Case/Interaction Flow:</font></h1>
+	<h3 align="center"><strong></strong><font size="6">Use Case/Interaction Flow:</font></h3>
 		<p align="center">John and Tom are at the bar arguing over who's team is has won more games since they started playing each other.
 		John, is a Raiders fan. Tom, is a Broncos fan. The Broncos and Raiders rivalry goes back decades.
 		Tom wants to show John that the Broncos have won more games then the Raiders since they started playing each other in 1960.</p>
-	<h2 align="center"><strong></strong><font size="6">Interaction Flow:</font></h2>
+	<h4 align="center"><strong></strong><font size="6">Interaction Flow:</font></h4>
 		<ul align="center">Tom takes out his phone and opens the web browser</ul>
 		<ul align="center">Tom enters NFL.com into his web browser</ul>
 		<ul align="center">Webstie returns with multiple link options to look at including news, schedule, standings, and records, ect; of each team </ul>

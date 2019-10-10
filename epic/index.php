@@ -6,12 +6,12 @@
 </head>
 <body>
 <div>
-	<a href="persona.php">Persona</a>
+	<a href="persona.php"><strong>Persona</strong></a>
 	<link rel="stylesheet" href="./style.css">
 </div>
 <div>
-	<a href="user-story.php">User Story</a>
+	<a href="user-story.php"><strong>User Story</strong></a>
 </div>
-	<a href="use-case-interaction-flow.php">Use Case/Interaction Flow</a>
+	<a href="use-case-interaction-flow.php"><strong>Use Case/Interaction Flow</strong></a>
 </body>
 </html>
