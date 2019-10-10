@@ -12,13 +12,13 @@
 	<img src="images/raiders.jpg"style="width:250px;height:250px;">
 </div>
 	<h3 align="center"><strong></strong><font size="6">Use Case/Interaction Flow:</font></h3>
-		<p align="center">John and Tom are at the bar arguing over who's team is has won more games since they started playing each other.
+		<p align="center"><strong>John and Tom are at the bar arguing over who's team is has won more games since they started playing each other.
 		John, is a Raiders fan. Tom, is a Broncos fan. The Broncos and Raiders rivalry goes back decades.
-		Tom wants to show John that the Broncos have won more games then the Raiders since they started playing each other in 1960.</p>
+		Tom wants to show John that the Broncos have won more games then the Raiders since they started playing each other in 1960.</strong></p>
 	<h4 align="center"><strong></strong><font size="6">Interaction Flow:</font></h4>
-		<ul align="center">Tom takes out his phone and opens the web browser</ul>
+		<ul align="center"><strong>Tom takes out his phone and opens the web browser</ul>
 		<ul align="center">Tom enters NFL.com into his web browser</ul>
-		<ul align="center">Webstie returns with multiple link options to look at including news, schedule, standings, and records, ect; of each team </ul>
+		<ul align="center">Website returns with multiple link options to look at including news, schedule, standings, and records, ect; of each team </ul>
 		<ul align="center">Tom clicks on the Link that says "Schedule"</ul>
 		<ul align="center">The schedule link returns links for every team in the League</ul>
 		<ul align="center">Tom clicks on the "Broncos" link</ul>
@@ -31,6 +31,6 @@
 									that out of those 120 games the Raiders have won a total of 65 and the Broncos a total of 53 with two games ending in a tie score</ul>
 		<ul align="center">Tom is ashamed to show John what he just found out. He was certain the Broncos had the better overall record between the two teams. John
 									takes a look at Tom's phone and just starts laughing at Tom and says "See, I told you so!" Now John has even more reason to pick on Tom.
-									Thanks technology and NFL.com.</ul>
+									Thanks technology and NFL.com.</strong></ul>
 </body>
 </html>
