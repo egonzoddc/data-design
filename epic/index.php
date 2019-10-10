@@ -13,5 +13,8 @@
 	<p><a href="user-story.php"><strong><font color="red">User Story</font></strong></a></p>
 </div>
 	<p><a href="use-case-interaction-flow.php"><strong><font color="red">Use Case/Interaction Flow</font></strong></a></p>
+<div>
+	<p><a href="data-design-erd.php"><strong><font color="red">Data Design ERD</font></strong></a></p>
+</div>
 </body>
 </html>
