@@ -11,7 +11,7 @@
 	<img src="images/nfl-logo.png">
 	<img src="images/raiders.jpg"style="width:250px;height:250px;">
 </div>
-<h1 align="center"><strong></strong><font size="6">ERD</font></h1>
+<h1 align="center"><strong></strong><font size="6">Data Design ERD</font></h1>
 <p align="center"><img src="images/Data-Design-ERD.png">
 </body>
 </html>
