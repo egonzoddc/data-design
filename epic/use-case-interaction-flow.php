@@ -20,6 +20,7 @@
 		<p align="center"><strong>John and Tom are at the bar arguing over who's team is has won more games since they started playing each other.
 		John, is a Raiders fan. Tom, is a Broncos fan. The Broncos and Raiders rivalry goes back decades.
 		Tom wants to show John that the Broncos have won more games then the Raiders since they started playing each other in 1960.</strong></p>
+<div>
 	<h4 align="center"><strong></strong><font size="6">Interaction Flow:</font></h4>
 		<ul align="center"><strong>Tom takes out his phone and opens the web browser</ul>
 		<ul align="center">Tom enters NFL.com into his web browser</ul>
@@ -37,5 +38,6 @@
 		<ul align="center">Tom is ashamed to show John what he just found out. He was certain the Broncos had the better overall record between the two teams. John
 									takes a look at Tom's phone and just starts laughing at Tom and says "See, I told you so!" Now John has even more reason to pick on Tom.
 									Thanks technology and NFL.com.</strong></ul>
+</div>
 </body>
 </html>
