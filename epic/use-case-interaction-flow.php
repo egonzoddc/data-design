@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Efren Data Design Project-User Case/Interaction Flow</title>
+	<link rel="stylesheet" href="./style.css">
 </head>
 <body>
 <div align="center">
