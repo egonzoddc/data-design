@@ -7,11 +7,16 @@
 </head>
 <body>
 <div align="center">
-	<img src="images/broncos.png"style="width:300px;height:200px;">
+	<img src="images/broncos.png" style="width:300px;height:200px;">
 	<img src="images/nfl-logo.png">
-	<img src="images/raiders.jpg"style="width:250px;height:250px;">
+	<img src="images/raiders.jpg" style="width:250px;height:250px;">
 </div>
-	<h3 align="center"><strong></strong><font size="6">Use Case/Interaction Flow:</font></h3>
+	<h3 align="center"><strong></strong><font size="6">Use Case:</font></h3>
+		<ul align="center"><strong>Title: Which team has the most wins in head-to-head competition.</ul>
+		<ul align="center">Description: Two football fans are arguing over which of their teams have the more wins between their head-to-head games</ul>
+		<ul align="center">User Name and Role: Tom is the user and his role is the Broncos Fan.</ul>
+		<ul align="center">Pre-conditions: There is no need to be a registered user to check the stats of the teams.</ul>
+		<ul align="center">Post-conditions: Tom will have figured out what the head to head record of the teams will be and know if he was either right or wrong.</strong></ul>
 		<p align="center"><strong>John and Tom are at the bar arguing over who's team is has won more games since they started playing each other.
 		John, is a Raiders fan. Tom, is a Broncos fan. The Broncos and Raiders rivalry goes back decades.
 		Tom wants to show John that the Broncos have won more games then the Raiders since they started playing each other in 1960.</strong></p>
