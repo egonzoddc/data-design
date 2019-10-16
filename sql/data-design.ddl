@@ -1,5 +1,5 @@
-DROP TABLE IF EXISTS `Teams`;
 DROP TABLE IF EXISTS `Stats`;
+DROP TABLE IF EXISTS `Teams`;
 
 
 
@@ -19,6 +19,6 @@ CREATE TABLE Stats (
 	teamAId BINARY(16) NOT NULL,
 	teamBId BINARY(16) NOT NULL,
 	INDEX (teamAId, teamBId),
-	FOREIGN KEY(teamAId, teamBId) references Teams(teamId)
-
+	FOREIGN KEY(teamAId) references Teams(teamId),
+	FOREIGN KEY(teamBId) references Teams(teamId)
 );
